@@ -1,1 +1,1 @@
-# AWS-Cloud-Demo
+# AWS-Cloud-Projects
